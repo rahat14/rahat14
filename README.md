@@ -33,8 +33,8 @@ Check My Portfolio: https://rahat14.github.io/
 ```
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
+  <summary><b>:telescope: 2022 goal</b></summary>
+  I want to expance my knowledge from native to cross platfrom this year. Going to test flutter framework. Also i may travel more this yeaar.  
 </details>
 
 ## :tada: Achievements
