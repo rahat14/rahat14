@@ -34,7 +34,7 @@ Check My Portfolio: https://rahat14.github.io/
 
 <details>
   <summary><b>:telescope: 2022 goal</b></summary>
-  I want to expance my knowledge from native to cross platfrom this year. Going to test flutter framework. Also i may travel more this yeaar.  
+  I want to expand my knowledge from native to cross platfrom this year. Going to test flutter framework. Also i may travel more this yeaar.  
 </details>
 
 ## :tada: Achievements
