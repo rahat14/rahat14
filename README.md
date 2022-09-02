@@ -11,8 +11,7 @@
 
 
 :wave: Hi there, My name is Rahatul Aseaikin Shovo.😀 I'm 26 years old, I'm a self-taught Mobile App Developer .
-I am working on different Platform such native or cross platfrom for 4 Years . Recently I grown some interested in Machine Learning platform.  
-Currently, I compeleting ny Undergraduate in CSE from 🇧🇩. 
+I am working on different Platform such native or cross platfrom for 4 Years . Recently I grown some interested in Machine Learning platform.
 I'm interested in doing research on image related problems. 
 I love to work with new technologies and playing with  AI.🤖
 Check My Portfolio: https://rahat14.github.io/
