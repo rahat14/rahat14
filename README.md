@@ -28,7 +28,7 @@ Check My Portfolio: https://rahat14.github.io/
    "platfrom": ["Android", "Ios"],
    "databases": ["mysql","postgresql" ,"firebase"],
    "ai framework":["Keras","PyTorch"],
-   "experimenting": ["Django", "Heroku"]
+   "experimenting": ["Django", "KMM"]
 }
 ```
 
