@@ -22,11 +22,11 @@ Check My Portfolio: https://rahat14.github.io/
 
 ```json
 {
-   "languages": ["Python", "Java" , "Kotlin","Swift"",JavaScript"],
-   "backend": ["Node.js" , "Graphql"],
-   "platfrom": ["Android", "Ios"],
-   "databases": ["mysql","postgresql" ,"firebase"],
-   "ai framework":["Keras","PyTorch"],
+   "languages": ["Python", "Java", "Kotlin", "Swift", "Flutter", "Compose"],
+   "backend": ["Node.js", "Laravel"],
+   "platform": ["Android", "Ios"],
+   "databases": ["MySQL","PostgreSQL" ,"firebase"],
+   "ai framework":["Keras", "PyTorch"],
    "experimenting": ["Django", "KMM"]
 }
 ```
